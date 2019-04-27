@@ -1,0 +1,12 @@
+html {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    background-color: blue !important;
+}
+
+.col {
+    background-color: white !important;
+}
